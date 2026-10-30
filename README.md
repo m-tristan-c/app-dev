@@ -36,6 +36,7 @@ SEGA used different computing hardware with the Classic and Deluxe series of mai
 | GPU         | NVIDIA GeForce GT545                           |
 | Storage     | 32GB SSD                                       |
 | OS          | Windows Embedded 2009 (Custom XP-based kernel) |
+
 Source: https://segaretro.org/Sega_RingEdge_2
 
 ### Deluxe Series (SEGA ALLS HX2)
@@ -49,6 +50,7 @@ Source: https://segaretro.org/Sega_RingEdge_2
 | Storage     | 120GB SSD                             |
 | OS          | Windows 10 IoT Enterprise (LTSB 2019) |
 | PSU         | FSP FSP500-50AAC                      |
+
 Source: https://segaretro.org/ALLS#ALLS_HX2, https://en.namu.wiki/w/ALLS#s-3.2.2
 
 
